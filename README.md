@@ -12,3 +12,4 @@
   - DHT22 and DHT11 humidity and temperature sensors<br>
   - Multirelay<br>
   - PIR sensor switch<br>
+  - SN photoresistor (like the KY-018)<br>
