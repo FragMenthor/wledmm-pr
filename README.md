@@ -2,7 +2,7 @@
 
 <h1>FragMenthor: WLED MoonModules Compilation</h1>
 
-<h2><b>https://wled-compile.github.io/</b>b></h2>h2>
+<h2><b>https://wled-compile.github.io/</b></h2>
 <h3>Settings:</h3>
 <b>Fork:</b>b> MoonModules Fork
 <b>Branch:</b>b> mdev
