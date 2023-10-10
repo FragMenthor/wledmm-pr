@@ -8,7 +8,7 @@
 <b>Branch:</b> mdev<br>
 <b>Microcontroler Type:</b> esp32_4MB_M<br>
 <b>UserMODS:</b><br>
-  - DHT22 and DHT11 humidity and temperature sensors
-  - Four line display
-  - Multirelay
-  - PIR sensor switch
+  - DHT22 and DHT11 humidity and temperature sensors<br>
+  - Four line display<br>
+  - Multirelay<br>
+  - PIR sensor switch<br>
