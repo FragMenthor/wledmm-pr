@@ -10,6 +10,5 @@
   = ESP32 (4MB Flash, M: mods included: audio reactive, games, weather, custom effects, mpu6050 + other improvements)<br>
 <b>UserMODS:</b><br>
   - DHT22 and DHT11 humidity and temperature sensors<br>
-  - Four line display<br>
   - Multirelay<br>
   - PIR sensor switch<br>
