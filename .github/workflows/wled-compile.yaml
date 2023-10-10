@@ -28,7 +28,7 @@ jobs:
         cd `cat /tmp/WLEDtemp/wledfoldername`
         echo '[env:custom_build]' >>platformio.ini
         echo 'extends = env:esp32_4MB_M' >>platformio.ini
-        echo 'build_flags = ${env:esp32_4MB_M.build_flags} -D USERMOD_DHT -D USERMOD_DHT_CELSIUS -D USERMOD_MULTI_RELAY -D USERMOD_PIRSWITCH' >>platformio.ini
+        echo 'build_flags = ${env:esp32_4MB_M.build_flags} -D USERMOD_DHT -D USERMOD_DHT_CELSIUS -D USERMOD_MULTI_RELAY -D USERMOD_PIRSWITCH -D USERMOD_SN_PHOTORESISTOR' >>platformio.ini
         echo 'lib_deps = ' >>platformio.ini
         echo '  ${env:esp32_4MB_M.lib_deps}' >>platformio.ini
         echo '  https://github.com/alwynallan/DHT_nonblocking' >>platformio.ini
